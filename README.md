@@ -322,7 +322,7 @@ The main `Dockerfile` uses a multi-stage build:
 Clone the repository:
 
 ```bash
-git clone https://github.com/bilal1058/Selenium-assignment.git
+git clone https://github.com/bilal1058/selenium-hospital-management
 cd Selenium-assignment
 ```
 
